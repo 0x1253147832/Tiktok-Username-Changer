@@ -7,7 +7,7 @@ Change your account name to anything you like with this username changer. See th
 
 1. VPN (Set to america)
 2. Tiktok Account (You can find how to get your session id by viewing the session id file.)
-3. [Invisible Unicode Website - ()](https://www.soscisurvey.de/tools/view-chars.php)
+3. [Invisible Unicode Website](https://www.soscisurvey.de/tools/view-chars.php)
 4. You can use this unicode instead if the website is not working: ( )
 5. Join my telegram group & discord:
 
